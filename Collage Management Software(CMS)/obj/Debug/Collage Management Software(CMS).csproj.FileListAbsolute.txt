@@ -1,0 +1,31 @@
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Collage Management Software(CMS).exe.config
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Collage Management Software(CMS).exe
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Collage Management Software(CMS).pdb
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Guna.UI2.dll
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).csproj.AssemblyReference.cache
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).csproj.SuggestedBindingRedirects.cache
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Form1.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Properties.Resources.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).csproj.GenerateResource.cache
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).csproj.CoreCompileInputs.cache
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).csproj.CopyComplete
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).exe
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage Management Software(CMS).pdb
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Login.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.MasterForm.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Students.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Department.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Fees.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Teachar.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.UserForm.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\MaterialDesignColors.dll
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\MaterialDesignColors.pdb
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.Account.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.DashBoard.resources
+D:\University Projects\Collage Management Software(CMS)\Collage Management Software(CMS)\obj\Debug\Collage_Management_Software_CMS_.NewUserRegister.resources
